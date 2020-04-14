@@ -8,6 +8,8 @@ Tested on NEJE DK-8-KZ (buy on 2020)
 
 ## Graphical user interface
 
+![GUI](gui.png)
+
 Allow to :
 * Choose COM port and connect to engraver device
 * Move engraver head
@@ -23,9 +25,9 @@ TODO
 
 ## TODO
 
-* change print output to logging output
-* add command-line interface
-* GUI : set burning time
+- [ ] change print output to logging output
+- [ ] add command-line interface
+- [ ] GUI : set burning time
 
 ## Inspired from
 
